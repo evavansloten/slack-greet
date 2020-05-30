@@ -12,5 +12,5 @@ USER www-data
 ENV CHANNEL_ID foo
 ENV API_ENDPOINT foo
 ENV SLACK_TOKEN foo
-ENV
+
 USER root
