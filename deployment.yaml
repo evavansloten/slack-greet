@@ -1,0 +1,36 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: slack-greet-service
+spec:
+  selector:
+    app: slack-greet
+  type: NodePort
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: slack-greet-deployment
+  labels:
+    app: slack-greet
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: slack-greet
+  template:
+    metadata:
+      labels:
+        app: slack-greet
+    spec:
+      imagePullSecrets:
+      - name: pipeline-docker-registry
+      containers:
+      - name: slack-greet
+        image: ${CICD_IMAGE}:${CICD_EXECUTION_SEQUENCE}
+        ports:
+        - containerPort: 80
