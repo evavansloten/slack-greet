@@ -1,6 +1,6 @@
 Code for NL is de community van developers en designers die samenwerken aan een open en eerlijke digitale overheid en samenleving. Voor meer info https://www.codefor.nl
 
-Nu actueel in het kader van de notificatie-app tegen corona van VWS:
+Nu actueel in het kader van de COVID19-notificatie-app van VWS:
 
 <#CVA9LGHMM|corona>: praat mee over corona en de verschillende community projecten
 <#C014NSYS09G|veiligtegencorona>: Bespreek het project van VWS in relatie tot https://veiligtegencorona.nl
