@@ -37,6 +37,7 @@ Interessante community projecten zijn op dit moment:
 Corona gerelateerde kanalen:
 
 <#CVA9LGHMM|corona> - startpunt voor het gesprek, vragen en ideeen rondom corona ontwikkelingen
+<#C014NSYS09G|veiligtegencorona> - strategie rondom Veilig Tegen Corona manifest
 <#C010FFMQMU4|corona-data> - databronnen in kaart
 <#C010G4HNW2U|corona-brainstorm> - dump voor leuke, inspirerende nieuwe inzichten en ideeen
 <#C010W6L000L|influenzanet-codefornl-shared> - gedeeld kanaal met de EU influenzanet community (met RIVM)
