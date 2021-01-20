@@ -1,19 +1,19 @@
-In dit kanaal vind je een korte samenvatting van de belangrijkste informatie die nodig is een vliegende start te maken :airplane_departure:
+In dit kanaal vind je een samenvatting van informatie nodig om een vliegende start te maken :airplane_departure:
 
-Code for NL is de Nederlandse community van developers en designers die samenwerken aan een open, eerlijke, en inclusieve digitale overheid en samenleving. Ons doel is een sterke Nederlandse _public tech_ beweging die vanuit publieke waarden en belangen werkt aan de digitale transformatie van overheid en maatschappij. Code for NL is onderdeel van het internationale Code for All netwerk. Voor meer informatie, zie www.codefor.nl
+Code for NL is de Nederlandse community van developers en designers die samenwerken aan een open, eerlijke, en inclusieve digitale overheid en samenleving. Ons doel is een sterke Nederlandse _public tech_ beweging die vanuit publieke waarden en belangen werkt aan digitale transformatie. Code for NL is onderdeel van het internationale Code for All netwerk. Voor meer informatie, zie www.codefor.nl
 
-*Wat moet je weten voor je begint?*
+*Wat moet je weten?*
 
 * Op deze Slack omgeving geldt de Code for NL gedragscode (https://github.com/codefornl/gedragscode). 
 * Voor vragen en opmerkingen is het bestuur te vinden op <#CDBR8Q56W|bestuur-publiek>.
-* Code for NL geloof in een sterke _public tech_ beweging die werkt vanuit Community Principles (https://github.com/codefornl/community-principes)
+* Code for NL werkt vanuit _Community Principles_ (https://github.com/codefornl/community-principes)
 * Wij onderschrijven de Standard for Public Code (https://standard.publiccode.net/)
 * Code for NL is een omgeving waar 'doen' en 'open' centraal staat. 
 * Marketing en commerciële aanbiedingen worden niet op prijs gesteld.
 
-*Wat kun je hier allemaal vinden?*
+*Wat kun je hier vinden?*
 
-Aan de ontwikkeling van open Nederlandse digitale public tech wordt in meerdere kanalen gewerkt:
+In meerdere kanalen wordt gesproken over public tech:
 
 <#C68APRNNP|algemeen> - startplek voor algemene (hulp)vragen en informatie
 <#CPJC62GUQ|publiccode> - gesprek over de Standard for Public Code en doorontwikkeling daarvan
@@ -21,26 +21,19 @@ Aan de ontwikkeling van open Nederlandse digitale public tech wordt in meerdere 
 <#C7KDQRXMZ|nl-design-system> - het nieuwe Nederlandse Design System wordt besproken en doorontwikkeld
 <#C010LT2TRU2|codefornl-codeforall-shared> - gedeeld kanaal met de wereldwijde Code for All community
 
-Het Ministerie van VWS werkt in alle openheid aan de ontwikkeling van een covid 19 notificatie app, in o.a. deze kanalen:
+Daarnaast kijken en spreken we mee over projecten van het ministerie van VWS:
 
-<#C011R4NCFMJ|notificatie-app> - algemene updates, gesprekken over de gekozen technologische richting
-<#C014YNF14MN|notificatie-app-design> - een van de specifieke sub kanalen, gericht op de UX van de app
-<#C013YSH084F|notificatie-app-hulpvragen> - een overzicht van specifieke issues waar je kunt meewerken
-<#C014HGWA0F4|notificatie-app-architectuur> - discussie over de technische keuzes
-<#C014DKLJAJ2|notificatie-app-android> - ontwikkeling van android omgeving
+<#C01JCE9UHB6|coronatester> - Het project van VWS voor het inplannen van testen en het tonen van testresultaat
+<#C011R4NCFMJ|notificatie-app> - Algemene updates, gesprekken over de gekozen technologische richting
+<#C014YNF14MN|notificatie-app-design> - Gesprekken rondom de UX van de app
+<#C013YSH084F|notificatie-app-hulpvragen> - Overzicht van specifieke issues waar je kunt meewerken
+<#C014HGWA0F4|notificatie-app-architectuur> - Gesprekken over de technische keuzes
+<#C014DKLJAJ2|notificatie-app-android> - Ontwikkeling specifiek voor de android omgeving
 
-Interessante community projecten zijn op dit moment:
+Algemene gesprekken over corona:
 
-<#C0116FPP7DW|corona-helpradar> - samenwerking met LOT-C wordt  rondom hulpvragen
-<#C01039S6X98|lockdown> - internationale samenwerking rondom ontsluiting wereldwijde lockdown informatie
-
-Corona gerelateerde kanalen:
-
-<#CVA9LGHMM|corona> - startpunt voor het gesprek, vragen en ideeen rondom corona ontwikkelingen
-<#C014NSYS09G|veiligtegencorona> - strategie rondom Veilig Tegen Corona manifest
-<#C010FFMQMU4|corona-data> - databronnen in kaart
-<#C010G4HNW2U|corona-brainstorm> - dump voor leuke, inspirerende nieuwe inzichten en ideeen
-<#C010W6L000L|influenzanet-codefornl-shared> - gedeeld kanaal met de EU influenzanet community (met RIVM)
+<#CVA9LGHMM|corona> - Startpunt voor het gesprek, vragen en ideeen rondom corona ontwikkelingen
+<#C014NSYS09G|veiligtegencorona> - Gesprekken over het **Veilig Tegen Corona** manifest
 
 Gebruik vooral de channel browser om een van de momenteel **67 kanalen** te vinden.
 
