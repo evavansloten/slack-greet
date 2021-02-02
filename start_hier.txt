@@ -23,7 +23,7 @@ In meerdere kanalen wordt gesproken over public tech:
 
 Daarnaast kijken en spreken we mee over projecten van het ministerie van VWS:
 
-<#C01JCE9UHB6|coronatester> - Het project van VWS voor het inplannen van testen en het tonen van testresultaat
+<#C01JCE9UHB6|coronatester> - Het project van VWS voor het tonen van testresultaat, denk mee!
 <#C011R4NCFMJ|notificatie-app> - Algemene updates, gesprekken over de gekozen technologische richting
 <#C014YNF14MN|notificatie-app-design> - Gesprekken rondom de UX van de app
 <#C013YSH084F|notificatie-app-hulpvragen> - Overzicht van specifieke issues waar je kunt meewerken
