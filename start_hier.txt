@@ -1,15 +1,14 @@
-In dit kanaal vind je een samenvatting van de informatie die nodig om een vliegende start te maken :airplane_departure:
+In dit kanaal vind je een samenvatting van de informatie die je nodig hebt om een vliegende start te maken :airplane_departure:
 
 Code for NL is de Nederlandse community van developers en designers die samenwerken aan een open, eerlijke, en inclusieve digitale overheid en samenleving. Ons doel is een sterke Nederlandse _public tech_ beweging die vanuit publieke waarden en belangen werkt aan digitale transformatie. Code for NL is onderdeel van het internationale Code for All netwerk. Voor meer informatie, zie www.codefor.nl
 
 *Wat moet je weten voor je begint?*
 
-* Code for NL is een omgeving waar 'doen' en 'open' centraal staat.
-* Op deze Slack omgeving geldt de Code for NL gedragscode (https://github.com/codefornl/gedragscode).
-* Voor vragen en opmerkingen is het bestuur te vinden op #bestuur-publiek.
-* Code for NL gelooft in een sterke public tech beweging die werkt vanuit Community Principles (https://github.com/codefornl/community-principes)
+* Code for NL is een community waarin 'doen' en 'open' centraal staan (https://github.com/codefornl/community-principes)
+* Op deze Slack omgeving geldt de Code for NL gedragscode (https://github.com/codefornl/gedragscode)
+* Voor vragen en opmerkingen is het bestuur te vinden op <#CDBR8Q56W|bestuur-publiek>
 * Wij onderschrijven de Standard for Public Code (https://standard.publiccode.net/)
-* Marketing en commerciële aanbiedingen worden niet op prijs gesteld.
+* Marketing en commerciële aanbiedingen worden niet op prijs gesteld
 
 *Wat kun je hier allemaal vinden?*
 
@@ -20,14 +19,11 @@ In meerdere kanalen wordt gesproken over public tech:
 <#C7KDQRXMZ|nl-design-system> - het nieuwe Nederlandse Design System wordt besproken en doorontwikkeld
 <#C01E6TR8FPA|innovatiebudget-machtigen> - kanaal voor het project 'Gebruiksvriendelijk vrijwillig machtigen’
 <#C01FHPYQ0G5|polis> - kanaal over implementatie van Polis als burgerparticipatie tool
+<#CVA9LGHMM|corona> - startpunt voor vragen en ideeën rondom corona-ontwikkelingen
 
 Het Ministerie van VWS realiseert in openheid digitale ondersteuning ter bestrijding van de coronacrisis, in o.a. deze kanalen:
 <#C01JCE9UHB6|coronatester> - Het project van VWS voor het tonen van testresultaat, denk mee!
 <#C011R4NCFMJ|coronamelder> - startpunt voor het gesprek over de app CoronaMelder
-
-Algemene gesprekken over corona:
-<#CVA9LGHMM|corona> - startpunt voor vragen en ideeën rondom corona-ontwikkelingen
-<#C010FFMQMU4|corona-data> - databronnen in kaart
 
 Gebruik vooral de channel browser om een van de vele andere kanelen te vinden.
 
