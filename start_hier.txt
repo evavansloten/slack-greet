@@ -22,7 +22,7 @@ In meerdere kanalen wordt gesproken over public tech:
 <#CVA9LGHMM|corona> - startpunt voor vragen en ideeën rondom corona-ontwikkelingen
 
 Het Ministerie van VWS realiseert in openheid digitale ondersteuning ter bestrijding van de coronacrisis, in o.a. deze kanalen:
-<#C01JCE9UHB6|coronacheck> - praat hier mee over de ontwikkeling CoronaCheck, de testbewijsapp, welkom!
+<#C01JCE9UHB6|coronacheck> - praat hier mee over de ontwikkeling CoronaCheck, welkom!
 <#C011R4NCFMJ|coronamelder> - startpunt voor het gesprek over de app CoronaMelder
 
 Gebruik vooral de channel browser om een van de vele andere kanelen te vinden.
